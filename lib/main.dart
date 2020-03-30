@@ -4,7 +4,7 @@ import 'package:project_a/app/app.widget.dart';
 import 'package:project_a/app/app_module.dart';
 
 void main() => runApp(
-  ModularApp(
-  module: AppModule(),
-)
+    ModularApp(
+    module: AppModule(),
+  )
 );

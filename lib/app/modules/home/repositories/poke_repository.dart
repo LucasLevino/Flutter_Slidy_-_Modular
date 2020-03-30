@@ -1,5 +1,5 @@
 import 'package:dio/dio.dart';
-import 'package:project_a/app/shared/models/pokemon_model.dart';
+import 'package:project_a/app/modules/home/models/pokemon_model.dart';
 
 class PokeRepository{
   final Dio dio;
